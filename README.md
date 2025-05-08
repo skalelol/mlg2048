@@ -1,8 +1,8 @@
-MLG 2048
+MLG 2K48
 ========
 
 I made this website for the [Eth0](https://wiki.eth0.nl/index.php/Main_Page)
-party back in 2016 as a joke.
+party back in 2025 as a joke.
 
 ```
 # Release:
