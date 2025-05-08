@@ -1,4 +1,4 @@
-MLG 2048
+MLG 4096
 ========
 
 I made this website for the [Eth0](https://wiki.eth0.nl/index.php/Main_Page)
